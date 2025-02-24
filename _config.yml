@@ -17,8 +17,8 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # About Section
 subtitle: Risk Analytics <span style="color:#f58506"> Portfolio </span>
 location: "Glasgow, UK"
-resume_url: /docs/nsoyuka_jR_resume.doc
-avatar_image: /img/steve_profile_pic.jpg
+resume_url: /docs/nsoyuka_resume.doc
+avatar_image: /img/steve_pic.jpg
 
 #-------------------------------
 # Contact links
