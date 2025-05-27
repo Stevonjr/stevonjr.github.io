@@ -8,8 +8,8 @@ plugins:
 
 #-------------------------------
 # General Site Settings
-title: Nsoyuka Stephen Junior
-description: "Hi I'm Stephen, and I'm a Risk Analyst.  My portfolio highlights projects across operational risk, credit risk, fraud risk and sustainability/development risk, showcasing how I use data analytics to drive better risk management decisions. Please, explore my projects to see how risk analytics can drive better decision-making in complex institutions. You can also visit my Github & LinkedIn pages (or download my Resume) by using the links below!"
+title: Stephen Nsoyuka JR
+description: "Hi I'm Stephen, and I'm a Risk Analyst.  This portfolio captures the early phase of my data analytics journey, featuring mini-projects completed while building my technical skills. While most aren't risk-specific yet, my goal is to apply this growing expertise to real-world risk management challenges across areas like operational, credit, fraud, and sustainability risks. Feel free to explore my work - and visit my GitHub, LinkedIn, or download my CV using the links below!"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -22,7 +22,7 @@ avatar_image: /img/steve_pic.jpg
 
 #-------------------------------
 # Contact links
-linkedln: "https://www.linkedin.com/in/nsoyuka-stephen-junior-501717122/" # Add your linkedln handle
+linkedln: "https://www.linkedin.com/in/stephennsoyukajr/" # Add your linkedln handle
 github: "https://github.com/Stevonjr"  # Add your github handle
 
 paginate: 6
